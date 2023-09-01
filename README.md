@@ -6,6 +6,7 @@ This repository contains of data science related project completed for self lear
 ## Content
 - ## Machine learning algorithms
   - [Delivery Duration Prediction (in seconds)](https://github.com/ArturUA/data_science_portfolio/tree/main/DeliveryDurationPrediction): Tuned machine learning algorithm that predicts delivery duration from the Door Dash delivery company to the customer in seconds by some particular set of features. The dataset used in project is a public data posted by Door Dash company on the Strata Scratch website.
+  - [Verification of ensemble models](https://github.com/ArturUA/data_science_portfolio/tree/main/EnsembleModelsVerification): This project was created to understand the differences between all available types of ensemble models, to check out their ROC AUC score and build confusion matrices. The dataset used in this project is public data that can be accessed via the [link](https://archive.ics.uci.edu/dataset/713/auction+verification).
 - ## Deep learning
   - 
 - ## Data Analysis and visualization
