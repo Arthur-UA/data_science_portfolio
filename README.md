@@ -1,11 +1,15 @@
-# Data Science and Machine/Deep Learning Portfolio
-This repository contains of data science related project completed for self learning, academic and professional purposes. All projects are presented in either a jupyter notebook or just a python file.
-## Tools
-- __Python__: NumPy, Pandas, Seaborn, Matplotlib, Requests
-- __Machine Learning__: Scikit-learn, PyTorch, Torchvision
-## Content
+# Data Scientist
+## Technical skills
+- __General__: Python, Scikit-learn, PyTorch, Torchvision, NumPy, Pandas, Seaborn, Matplotlib, Requests, BeautifulSoup, SQL, JSON, Git
+- __Additional__: Microsoft Excel, Exploratory data analysis, Microsoft Power BI
+## Education
+- B.S., Computer system analysis | Dnipro University of Technology (Sep 2022 - Present)
+- Associate's degree, Computer engineering | Dnipro Professional College of Energy and Information Technologies (Sep 2020 - Jun 2022)
+## Additional courses and trainings
+- Machine learning at Hillel IT school (Jul 2023 - Sep 2023), [Credential](https://certificate.ithillel.ua/view/39757648)
+## Projects
 - ## Machine learning algorithms
-  - [Delivery Duration Prediction (in seconds)](https://github.com/ArturUA/data_science_portfolio/tree/main/DeliveryDurationPrediction): Tuned machine learning algorithm that predicts delivery duration from the Door Dash delivery company to the customer in seconds by some particular set of features. The dataset used in project is a public data posted by Door Dash company on the Strata Scratch website.
+  - [Delivery Duration Prediction](https://github.com/ArturUA/data_science_portfolio/tree/main/DeliveryDurationPrediction): Tuned machine learning algorithm that predicts delivery duration from the Door Dash delivery company to the customer in seconds by some particular set of features. The dataset used in project is a public data posted by Door Dash company on the Strata Scratch website.
   - [Verification of ensemble models](https://github.com/ArturUA/data_science_portfolio/tree/main/EnsembleModelsVerification): This project was created to understand the differences between all available types of ensemble models, to check out their ROC AUC score and build confusion matrices. The dataset used in this project is public data that can be accessed via the [link](https://archive.ics.uci.edu/dataset/713/auction+verification).
 - ## Deep learning
   - [CNN for motorcycles classifier](https://github.com/ArturUA/data_science_portfolio/tree/main/MotorcyclesClassifier): Convolutional neural network for predicting the class of motorcycle by image. Models were trained to predict three classes of motorcycles (sporbikes, city bikes and toutist bikes). The dataset consists of pictures of different classes of motorcycles collected from various search engines. The demo is available by the [link](https://huggingface.co/spaces/fr3man/motorcycle_classifier).
