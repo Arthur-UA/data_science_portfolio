@@ -23,4 +23,4 @@
 If you enjoyed what you saw, want to have a chat with me, feel free to contact me on:
 - [LinkedIn](https://www.linkedin.com/in/arthur-shamray-020ab724b/)
 - [Telegram](https://t.me/fr3mann)
-- [Email](https://mail.google.com/mail/?view=cm&source=mailto&to=fr3m.work@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&source=mailto&to=shamrayarthur@gmail.com)
