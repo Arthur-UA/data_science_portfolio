@@ -1,4 +1,3 @@
-# Arthur Shamray
 ## Technical skills
 - __General__: Python, Scikit-learn, PyTorch, Torchvision, NumPy, Pandas, Seaborn, Matplotlib, Requests, BeautifulSoup, SQL, JSON, Git
 - __Additional__: Microsoft Excel, Exploratory data analysis, Microsoft Power BI
