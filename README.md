@@ -19,9 +19,3 @@
   - [LSTM Neural Network for stock prices prediction](https://github.com/Arthur-UA/data_science_portfolio/tree/main/StockPricesPrediction): The main goal of this task is to create a model that will be able to make stock predictions based on previous values, general trends and other features; to test different algorithms and choose the best ones for each particular situation.
 - ### Data Analysis and visualization
   - [Exploratory Data Analysis (EDA) in Spotify songs dataset.](https://github.com/ArturUA/data_science_portfolio/tree/main/SpotifySongsEDA): The purpose of this task is to give an overview on the open Spotify Songs dataset from Kaggle. To check what factors are more important in defining whether the song is going to be popular.
-
-## Contact me
-If you enjoyed what you saw, want to have a chat with me, feel free to contact me on:
-- [LinkedIn](https://www.linkedin.com/in/arthur-shamray-020ab724b/)
-- [Telegram](https://t.me/fr3mann)
-- [Email](https://mail.google.com/mail/?view=cm&source=mailto&to=shamrayarthur@gmail.com)
